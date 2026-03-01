@@ -4,7 +4,7 @@ export const projects = [
     desc: "My personal portfolio built with React + Tailwind, deployed on Vercel.",
     tech: ["React", "Tailwind", "Vercel"],
     github: "https://github.com/yourusername/darsini-portfolio",
-    live: "https://your-vercel-link.vercel.app",
+    live: "https://future-fs-01-sd.vercel.app/",
   },
   {
     title: "Edunet IBM SkillsBuild - Employee Salary Prediction",
