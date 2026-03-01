@@ -3,7 +3,7 @@
 A modern, responsive personal portfolio website to showcase my skills, projects, and profile for internship evaluation and recruiter visibility.
 
 ## 🔗 Live Demo
-- Live Site: (paste your Netlify/Vercel link here)
+- Live Site: ((https://future-fs-01-sd.vercel.app/))
 - GitHub Repo: (this repository)
 
 ## 📌 Project Objective
