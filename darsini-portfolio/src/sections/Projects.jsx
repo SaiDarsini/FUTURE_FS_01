@@ -10,7 +10,7 @@ export default function Projects() {
       <div className="mx-auto max-w-6xl px-4 py-16">
         <h2 className="text-3xl font-bold">Projects</h2>
         <p className="mt-3 text-slate-300">
-          Click a project card to activate neon light.
+          
         </p>
 
         <div className="mt-10 grid gap-6 md:grid-cols-2">
