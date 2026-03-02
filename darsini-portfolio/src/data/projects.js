@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "Portfolio Website",
     desc: "My personal portfolio built with React + Tailwind, deployed on Vercel.",
-    tech: ["React", "Tailwind", "Vercel"],
+    tech: ["React", "Tailwind", "Vercel", "HTML", "CSS", "JavaScript", "Github"],
     github: "https://github.com/SaiDarsini/Future_FS_01",
     live: "https://future-fs-01-sd.vercel.app/",
   },
