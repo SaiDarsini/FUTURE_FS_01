@@ -7,42 +7,38 @@ export default function About() {
         <h2 className="text-3xl font-bold">About</h2>
 
         <p className="mt-4 text-slate-300 leading-relaxed">
-          I’m a 2nd-year B.Tech CSE (Data Science) student. I enjoy building modern web interfaces,
-          learning full-stack basics, and improving my problem-solving skills.
-          I’m looking for opportunities where I can learn and contribute as a developer.
-          My analytical mindset allows me to bridge the gap between user experience and data-driven decision making.
-          I create responsive, scalable web applications with React and modern frontend technologies,
-          backed by strong foundations in data analytics and problem solving.
+          I’m a 2nd-year B.Tech CSE (Data Science) student. I enjoy building modern
+          web interfaces with React, learning full-stack fundamentals, and improving
+          my problem-solving skills. My analytical mindset helps me bridge user
+          experience with data-driven thinking, and I’m looking for opportunities
+          where I can learn and contribute as a developer.
         </p>
 
         <div className="mt-8 grid gap-6 md:grid-cols-3">
-
           <GlowCard>
             <h3 className="font-semibold">What I’m good at</h3>
             <p className="mt-2 text-slate-300 text-sm">
-              Responsive UI, Python & Java (DSA), Problem solving skills,
-              Data Analytics, C++, React components, clean layouts,
-              GitHub documentation.
+              Responsive UI, React components, Tailwind styling, Git & GitHub,
+              Python, Core Java, DSA fundamentals, and basic data analytics.
             </p>
           </GlowCard>
 
           <GlowCard>
             <h3 className="font-semibold">Currently learning</h3>
             <p className="mt-2 text-slate-300 text-sm">
-              APIs, Data Analytics, improving coding and technical skills,
-              developing projects, frontend & backend basics,
-              deployment, and writing better project case studies.
+              APIs, backend basics (Node/Express), deployment workflows, writing
+              better project case studies, and improving coding consistency.
             </p>
           </GlowCard>
 
           <GlowCard>
             <h3 className="font-semibold">Goal</h3>
             <p className="mt-2 text-slate-300 text-sm">
-              Become a Data Scientist and secure a strong internship/job
-              by showcasing real deployed projects.
+              Build strong real-world projects, grow as a developer and data
+              enthusiast, and secure a good internship/job through a strong
+              portfolio.
             </p>
           </GlowCard>
-
         </div>
       </div>
     </section>
